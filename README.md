@@ -52,7 +52,7 @@ A delicate, dreamy web app where flowers bloom with meaning, memory, and mystery
 
 ## 💌 About the Creator
 
-Created with love by [*PixlyLina*](https://github.com/pxxelina), a dreamer, designer, and developer who believes in the magic of flowers, code, and healing.
+Created with love by [*PxxeLina*](https://github.com/pxxelina), a dreamer, designer, and developer who believes in the magic of flowers, code, and healing.
 
 > “You're magical, and so I am.”
 
