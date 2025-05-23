@@ -34,7 +34,7 @@ A delicate, dreamy web app where flowers bloom with meaning, memory, and mystery
 
 - *HTML5*
 - *CSS3*
-- *JavaScript 
+- *JavaScript*
 
 ---
 
