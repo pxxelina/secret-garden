@@ -17,7 +17,7 @@ A delicate, dreamy web app where flowers bloom with meaning, memory, and mystery
 ## 🌸 Features
 
 - *Elegant Flower Gallery*  
-  Discover symbolic meanings of flowers such as roses, lilies, cherry blossoms, and more.
+  Discover symbolic meanings of flowers such as roses, cherry blossoms, and more.
 
 - *Memory Game*  
   Play a relaxing flower-matching memory game designed to calm the mind and sharpen focus.
@@ -34,17 +34,12 @@ A delicate, dreamy web app where flowers bloom with meaning, memory, and mystery
 
 - *HTML5*
 - *CSS3*
-- *JavaScript (Vanilla)*
+- *JavaScript 
 
 ---
 
 ## 🌷 Future Enhancements
 
-- [ ] Add flower audio ambiance (soft birdsong, breeze, etc.)  
-- [ ] Expand the flower gallery with seasonal blooms  
-- [ ] Let users plant their own digital garden or bouquet  
-- [ ] Add a flower-of-the-day with daily quotes and emotions  
-- [ ] Include user journaling with floral moods
 
 ---
 
